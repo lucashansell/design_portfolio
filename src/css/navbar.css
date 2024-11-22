@@ -1,0 +1,19 @@
+nav ul {
+    list-style-type: none;
+    display: inline;
+    margin-right: 4rem;
+    
+}
+
+nav li {
+    display: inline;
+    margin: 10px;
+}
+
+nav p {
+    display: inline;
+}
+
+nav {
+    margin: 20px;
+}

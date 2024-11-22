@@ -1,0 +1,54 @@
+#project-container {
+    display: flex;
+    justify-content: space-between;
+    width: 75vw;
+    margin: auto;
+}
+
+#skills-container {
+    display: flex;
+    justify-content: space-between;
+    width: 75vw;
+    margin: auto;
+}
+
+#about-container {
+    display: flex;
+    justify-content: space-between;
+    width: 75vw;
+    margin: auto;
+}
+
+#work-container {
+    display: flex;
+    flex-direction: column;     
+    justify-content: center;    
+    align-items: center;        
+}
+
+.column {
+    flex: 1;
+    padding: 10px;
+    box-shadow: 10px 10px 15px 5px rgba(131, 126, 126, 0.3);
+    margin: 10px;
+    width: 40vw;
+}
+
+.box {
+    padding: 10px;
+    box-shadow: 10px 10px 15px 5px rgba(131, 126, 126, 0.3);
+    margin: 10px;
+    display: block;
+    width: 65vw;
+}
+
+.unordered {
+    list-style-type: none;
+    padding-right: 40px;
+    font-size: larger;
+}
+
+.ul-img {
+    width: 15px;
+    margin-right: 10px;
+}
